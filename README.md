@@ -7,4 +7,4 @@ on their own PC. After downloading the client file, the ducky runs it which give
 
 ## Demo
 
-![Demo](https://github.com/Abtaha/Rubber-Ducky-with-Arduino/blob/master/Demo.png)
+![Demo](https://github.com/Abtaha/Rubber-Ducky-with-Arduino/blob/master/recording.gif)
